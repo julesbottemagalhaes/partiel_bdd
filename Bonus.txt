@@ -1,0 +1,1 @@
+Je trouve que le fait d'être obligé de passer par la table participation est assez contraignant alors qu'on aurait juste pu faire une liaison entre athlète et épreuves
