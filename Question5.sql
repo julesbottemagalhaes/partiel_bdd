@@ -1,0 +1,7 @@
+CREATE TRIGGER Verifier_note
+BEFORE INSERT ON note
+FOR EACH ROW
+BEGIN
+    DECLARE max_note FLOAT;
+    DECLARE min_note FLOAT;
+END;
